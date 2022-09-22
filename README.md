@@ -9,7 +9,6 @@
       <a href="https://www.Linkedin.com/in/zinemoualhi">
          <img alt="Linkedin profile" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="width:20px;height:20px;"/></a> 
 </p>
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
@@ -24,7 +23,7 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 </br>
-
+#
 - 🔭 I’m currently working towards getting a job in the cloud industry.
 </br>
 - 🌱 I’m currently learning Terraform, Python, Ansible, Kubernetes, Docker.
