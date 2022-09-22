@@ -9,7 +9,7 @@
 
 <p align="left">
       <a href="https://www.Linkedin.com/in/zinemoualhi">
-         <img alt="Linkedin profile" title="Linkedin" src="https://custom-icon-badges.demolab.com/?logo=linekedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffr%2Ficone-gratuite%2Flinkedin_174857&psig=AOvVaw26_iv_7tHN4v9T06KlFIs_&ust=1663946125565000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjXn8DYqPoCFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw26_iv_7tHN4v9T06KlFIs_&ust=1663946125565000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjXn8DYqPoCFQAAAAAdAAAAABAN)"/></a> 
+         <img alt="Linkedin profile" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/></a> 
 </p>
 
 - 🔭 I’m currently working towards getting a job in the cloud industry.
