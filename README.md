@@ -9,6 +9,18 @@
       <a href="https://www.Linkedin.com/in/zinemoualhi">
          <img alt="Linkedin profile" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="width:20px;height:20px;"/></a> 
 </p>
+
+<p>
+- 🔭 I’m currently working towards getting a job in the cloud industry.
+<br />
+- 🌱 I’m currently learning Terraform, Python, Ansible, Kubernetes, Docker.
+<br />
+- 😄 Pronouns: He/Him
+-->
+</p>
+
+#
+
 ### 🧰 Languages and Tools
 <br />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
@@ -24,11 +36,3 @@
 <br />
 
 #
-<p>
-- 🔭 I’m currently working towards getting a job in the cloud industry.
-<br />
-- 🌱 I’m currently learning Terraform, Python, Ansible, Kubernetes, Docker.
-<br />
-- 😄 Pronouns: He/Him
--->
-</p>
