@@ -9,7 +9,7 @@
 
 <p align="left">
       <a href="https://www.Linkedin.com/in/zinemoualhi">
-         <img alt="Linkedin profile" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="width:10px;height:10px;"/></a> 
+         <img alt="Linkedin profile" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="width:20px;height:20px;"/></a> 
 </p>
 
 - 🔭 I’m currently working towards getting a job in the cloud industry.
