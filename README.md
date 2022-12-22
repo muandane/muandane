@@ -7,15 +7,14 @@
 
 <p align="left">
       <a href="https://www.Linkedin.com/in/zinemoualhi">
-         <img alt="Linkedin profile" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="width:20px;height:20px;"/></a> 
+         <img alt="Linkedin profile" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="width:15px;height:15px;"/></a> 
 </p>
 
 <p>
-- 🔭 I’m currently working towards getting a job in the cloud industry.
+- 🔭 I’m currently working towards getting recognized as a proffissional in the cloud scene.
 <br />
-- 🌱 I’m currently learning Terraform, Python, Ansible, Kubernetes, Docker.
+- 🌱 I’m currently working as a Junior SRE learning all about Terraform, Ansible, Kubernetes, Docker.
 <br />
-- 😄 Pronouns: He/Him
 -->
 </p>
 
@@ -32,7 +31,6 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <br />
 
 #
