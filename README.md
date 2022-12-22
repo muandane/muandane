@@ -4,7 +4,7 @@
 
    My name is Moualhi Zine El Abidine and I am a Networks and telecommunication engineer and a junior DevOps engineer.  
    I have been working toward having a career in the IT industry. I have done an internship at Mobilis, helping in Mobilis’s progress to the goals of switching to the modern cloud-based infrastructures used by most carriers around the globe and to ease the transition into 5G technology,
-   at the moment i am working as a Junior SRE handling multiple subjects concerning cloud technologies mainly kunernetes abd while using Microsoft's Azure cloud.
+   at the moment i am working as a Junior SRE handling multiple subjects concerning cloud technologies mainly Kubernetes while using Microsoft's Azure cloud.
 
 <p align="left">
       <a href="https://www.Linkedin.com/in/zinemoualhi">
