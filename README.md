@@ -1,5 +1,5 @@
 # 💫 About Me:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Robot+Mono&pause=1000&color=1DF7A8&width=435&lines=Junior+SysAdmin+and+DevOps+engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=5089&pause=2000&color=1FF77E&width=435&lines=Junior+DevOps+Engineer+%40IT+Challenge" alt="Typing SVG" /></a>
 <br>🌱 I’m currently learning advanced Kubernetes (Administration, service mesh and ingress, HPA, AKS, Helm Charts and GitOps).<br>💬 Ask me about GitOps and Azure CSP<br>⚡ Fun fact my friends call me Chef.
 
 
