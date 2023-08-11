@@ -1,6 +1,6 @@
 # 💫 About Me:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=5089&pause=2000&color=1FF77E&width=435&lines=Junior+DevOps+Engineer+%40IT+Challenge" alt="Typing SVG" /></a>
-<br>🌱 I’m currently working with advanced Kubernetes (Administration, service mesh and ingress, HPA, AKS, Helm Charts and GitOps).<br>💬 Ask me about GitOps and Azure Cloud Services<br>
+<br>🌱 I’m currently working with advanced Kubernetes (Administration, service mesh and ingress, HPA, AKS, Helm Charts and GitOps).<br>💬 Ask me about GitOps and Azure Cloud Services<br> ⚡️ I am looking for affordable ways to selfhost some intresting tools.
 ```rust
 My name is Moualhi Zine El Abidine and I am a DevOps Engineer.  
 I have been working toward having a career in the IT industry. I have done an internship at Mobilis, helping
